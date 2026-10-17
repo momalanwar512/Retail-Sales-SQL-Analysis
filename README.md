@@ -4,7 +4,7 @@
 This project contains 20 SQL queries designed to analyze retail sales, customer behavior, product performance, and store revenue using MySQL.
 
 The queries progress from basic data retrieval to more advanced analysis techniques.
-![Retail Sales SQL Project](sql-project-preview.png)
+![Retail Sales SQL Project](SQL Project.png)
 
 ## Tools Used
 - MySQL
